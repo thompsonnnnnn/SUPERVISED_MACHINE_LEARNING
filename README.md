@@ -1,4 +1,4 @@
-# 🌤️ Outdoor Sports Weather Prediction App
+# 🌤️ Proven Data Private Limited Weather Prediction App
 
 ## 📌 Project Overview
 This project is a **machine learning-based web app** that predicts whether the weather conditions are suitable for outdoor sports.  
