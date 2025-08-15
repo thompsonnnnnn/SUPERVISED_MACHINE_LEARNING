@@ -1,0 +1,20 @@
+{
+    "Outlook": [
+        "overcast",
+        "rainy",
+        "sunny"
+    ],
+    "Temperature": [
+        "cool",
+        "hot",
+        "mild"
+    ],
+    "Humidity": [
+        "high",
+        "normal"
+    ],
+    "Windy": [
+        false,
+        true
+    ]
+}
